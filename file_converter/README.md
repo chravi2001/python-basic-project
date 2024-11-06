@@ -1,10 +1,7 @@
-# Basic-Python-Project
-Welcome to the Basic Python Projects repository! This collection features simple Python projects designed for beginners to enhance their coding skills.
-
 File Format Converter
-One of the key projects is the File Format Converter, which allows users to convert files from csv to json and vise versa.
+File Format Converter allows users to convert files from csv to json and vise versa.
 
-Set up the following environment variables 
+Set up the following environment variables for the project
 ## Environment Variables
 SRC_DIR= your source directory
 TAR_DIR= your target directory
